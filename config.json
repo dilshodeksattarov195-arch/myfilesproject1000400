@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentsync",
+        "uuid": 1716000,
+        "checksum": "1xc3dm"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
